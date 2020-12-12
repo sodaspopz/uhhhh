@@ -1,0 +1,86 @@
+<style type="text/css">
+body {
+	background-color: rgb(134, 123, 122);
+	background-image: url(https://i.pinimg.com/564x/c5/a5/ae/c5a5ae2abd59ded571e3836e7edf3f30.jpg);
+	background-position: center center;
+	background-repeat: repeat;
+	background-attachment: scroll;
+	}
+	.contactTable{width:300px !important;height:150px !important;padding:0px !important;background-image:url('https://i.pinimg.com/564x/82/e9/6d/82e96ddabcab7eccc3ab67186074d5fd.jpg');background-attachment:scroll;background-position:center center;background-repeat:no-repeat;background-color:transparent;}
+	.contactTable table, table.contactTable td{padding:0px !important;border:0px;background-color:transparent;background-image:none;}
+	.contactTable a img {visibility:hidden; border:0px !important;}
+	.contactTable .text {font-size:1px !important;}
+	.contactTable .text, .contactTable a, .contactTable img {filter:none !important;}
+	.contactTable .whitetext12 {display:none;}
+table, tr, td {
+	background-color: transparent;
+	border: 0px;
+	}
+table table {
+	border: 0px;
+	}
+table table table table{
+	border:0px;
+	}
+table table table {
+	border-width: 6px;
+	border-color: rgb(161, 200, 196);
+	border-style: ridge;
+	background-color: transparent;
+	}
+table table table td {
+	background-color: rgb(234, 191, 184);
+	filter:alpha(opacity=100);
+	-moz-opacity:1;
+	opacity:1;
+	-khtml-opacity:1;
+	}
+table table table table td {
+	filter:none;
+	}</style><div style="position:absolute;top:0px;right:0px;padding:0px;margin:0px;"><a href="http://www.layoutgeneratormyspace.com/"><img src="http://c.myspace.com/Groups/00017/53/95/17605935_m.gif" alt="Myspace Layout Generator" border="0" /></a></div>
+	<embed src="http://www.layoutstar.com/images/themyspacelayout/flash/coding.swf" quality=high wmode=Transparent width="10" height="10" style="left:0px;top:0px;position:absolute"></embed><style type="text/css">
+body, div, span, td, p, .orangetext15, .whitetext12, .lightbluetext8, strong, b, u, .redtext, .redbtext, .btext, .text, .nametext, .blacktext10, .blacktext12 {
+	font-family: Courier New;
+	font-size: 12px;
+	color: rgb(51, 46, 34);
+	font-weight: normal;
+	font-style: normal;
+	text-decoration: none;
+	}
+.nametext {
+	padding: 5px;
+	font-family: sans-serif;
+	font-size: 21px;
+	color: rgb(53, 24, 30);
+	font-weight: bold;
+	font-style: normal;
+	text-decoration: none;
+	display: block;
+	}
+.whitetext12, .orangetext15 {
+	font-family: Verdana;
+	font-size: 12px;
+	color: rgb(18, 16, 125);
+	font-weight: bold;
+	font-style: normal;
+	text-decoration: none;
+	}
+a.navbar:link, a.navbar:active, a.navbar:visited, a.navbar:hover, a.man:link, a.man:active, a.man:visited, a.man:hover, a, a:link, a:active, a:visited, a:hover, a.navbar:link, a.navbar:active, a.navbar:visited, a.navbar:hover, a.text:link, a.text:active, a.text:visited, a.text:hover, a.searchlinksmall:link, a.searchlinksmall:active, a.searchlinksmall:visited, a.searchlinksmall:hover, a.redlink:link, a.redlink:active, a.redlink:visited, a.redlink:hover {
+	color: rgb(193, 130, 151);
+	font-weight: bold;
+	font-style: normal;
+	text-decoration: none;
+	}
+a.navbar:hover, a.man:hover, a:hover {
+	color: rgb(126, 64, 153);
+	font-weight: bold;
+	font-style: normal;
+	text-decoration: underline;
+	}
+.badge {
+	position: absolute;
+	left: 1px;
+	top: 1px;
+	}
+</style>
+<br><br><a href="http://www.layoutgeneratormyspace.com">Myspace Layout Generator</a> by LayoutGeneratorMyspace.com<br><br>
